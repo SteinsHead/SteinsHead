@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hello](https://count.getloli.com/get/@SteinsHead)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteinsHead&layout=compact&theme=buefy)
 
