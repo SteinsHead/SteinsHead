@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="SteinsHead — building thoughtful software" />
+  <img src="./assets/profile-banner-v2.svg" width="100%" alt="SteinsHead — building thoughtful software" />
 
   <h3>你好，我是 remember11 👋</h3>
   <p><sub>Developer focused on AI applications, developer tools and thoughtful product experiences.</sub></p>
