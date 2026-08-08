@@ -2,64 +2,73 @@
   <img src="./assets/profile-banner.svg" width="100%" alt="SteinsHead — building thoughtful software" />
 
   <h3>你好，我是 remember11 👋</h3>
-  <p>把好奇心变成可以运行、可以被使用的东西。</p>
+  <p><sub>Developer focused on AI applications, developer tools and thoughtful product experiences.</sub></p>
   <p>
     <a href="https://github.com/SteinsHead?tab=repositories">Projects</a>
-    ·
+    &nbsp;·&nbsp;
     <a href="https://steinshead.github.io">Blog</a>
-    ·
+    &nbsp;·&nbsp;
     <a href="mailto:headsteins@gmail.com">Email</a>
   </p>
 </div>
 
-## About me
+<br />
 
-我喜欢把复杂问题拆成清晰的界面和可靠的工程实现，关注 **AI 应用、开发者工具、交互式学习与跨端产品**。
+## 👋 About
 
-- 🛠️ 正在打磨本地优先、尊重用户数据的开发者工具
-- 🧠 正在从零学习语言模型，并把学习过程做成可交互的平台
-- ✨ 在意产品细节，也在意安全、可维护性和真实使用体验
-- 🌏 Based in China · Open to interesting ideas and collaboration
+我喜欢把复杂问题拆成清晰的界面与可靠的工程实现，把好奇心变成真正可以运行、可以被使用的东西。
 
-## Featured work
+- 🛠️ 打磨本地优先、尊重用户数据的开发者工具
+- 🧠 从零学习语言模型，并把知识做成可交互的体验
+- ✨ 在意产品细节，也在意安全、可维护性与真实使用场景
+
+## 🚀 Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SteinsHead/ghostty-studio">Ghostty Studio</a></h3>
-      <p>一个尊重原始配置文件的 Ghostty 可视化配置器：本地运行、差异确认、安全保存。</p>
-      <p><code>Tauri</code> <code>Rust</code> <code>TypeScript</code> <code>React</code></p>
+      <strong><a href="https://github.com/SteinsHead/ghostty-studio">Ghostty Studio</a></strong>
+      <br />
+      <sub>可视化编辑 Ghostty 配置；保留原文件结构，保存前确认差异。</sub>
+      <br /><br />
+      <code>Rust</code> <code>Tauri</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SteinsHead/cs336-learning-platform">CS336 Learning Platform</a></h3>
-      <p>从零理解 Stanford CS336 的交互式学习平台，连接理论、数学直觉、代码与实验。</p>
-      <p><code>Python</code> <code>JavaScript</code> <code>GitHub Pages</code></p>
+      <strong><a href="https://github.com/SteinsHead/cs336-learning-platform">CS336 Learning Platform</a></strong>
+      <br />
+      <sub>从零学习语言模型的交互式平台，串联理论、数学、代码与实验。</sub>
+      <br /><br />
+      <code>Python</code> <code>JavaScript</code> <code>GitHub Pages</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SteinsHead/Luna">Luna</a></h3>
-      <p>围绕 Web 与 Android 的跨端 monorepo 实践，也承载着我对个人产品的持续探索。</p>
-      <p><code>TypeScript</code> <code>Monorepo</code> <code>Cross-platform</code></p>
+      <strong><a href="https://github.com/SteinsHead/Luna">Luna</a></strong>
+      <br />
+      <sub>面向 Web 与 Android 的跨端 monorepo 实践与个人产品探索。</sub>
+      <br /><br />
+      <code>TypeScript</code> <code>Monorepo</code> <code>Cross-platform</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SteinsHead/Life-Copilot">Life Copilot</a></h3>
-      <p>用自然语言和语音捕捉任务的跨端产品实验，让记录和提醒更自然。</p>
-      <p><code>Expo</code> <code>React Native</code> <code>AI</code></p>
+      <strong><a href="https://github.com/SteinsHead/Life-Copilot">Life Copilot</a></strong>
+      <br />
+      <sub>用自然语言与语音捕捉任务的跨端产品实验。</sub>
+      <br /><br />
+      <code>Expo</code> <code>React Native</code> <code>AI</code>
     </td>
   </tr>
 </table>
 
-## Toolbox
+## 🧰 Toolbox
 
-`TypeScript` · `Rust` · `Python` · `Go` · `React` · `Tauri` · `Node.js` · `Git`
+| Languages | Building with | Focus |
+| :--- | :--- | :--- |
+| `TypeScript` · `Rust` · `Python` · `Go` | `React` · `Tauri` · `Node.js` · `Expo` | AI apps · Developer tools · Learning systems |
 
-## How I build
+<br />
 
-> Clear interfaces. Reliable systems. Small iterations that become useful products.
-
-我相信好的软件不只是“能跑”：它应该容易理解、尊重用户，并且经得起真实世界的使用。
+> **Clear interfaces. Reliable systems.** Small iterations that become useful products.
 
 <div align="center">
-  <sub>This profile intentionally uses repository-hosted static assets so it stays fast and reliable.</sub>
+  <sub>Static by design — fast, reliable, and free from third-party stats services.</sub>
 </div>
