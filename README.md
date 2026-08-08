@@ -1,8 +1,11 @@
 <div align="center">
   <img src="./assets/profile-banner-v2.svg" width="100%" alt="SteinsHead — building thoughtful software" />
 
-  <h3>你好，我是 remember11 👋</h3>
-  <p><sub>Developer focused on AI applications, developer tools and thoughtful product experiences.</sub></p>
+  <p>
+    <strong>你好，我是 remember11 👋</strong>
+    <br />
+    <sub>Developer focused on AI applications, developer tools and thoughtful product experiences.</sub>
+  </p>
   <p>
     <a href="https://github.com/SteinsHead?tab=repositories">Projects</a>
     &nbsp;·&nbsp;
@@ -11,8 +14,6 @@
     <a href="mailto:headsteins@gmail.com">Email</a>
   </p>
 </div>
-
-<br />
 
 ## 👋 About
 
@@ -64,8 +65,6 @@
 | Languages | Building with | Focus |
 | :--- | :--- | :--- |
 | `TypeScript` · `Rust` · `Python` · `Go` | `React` · `Tauri` · `Node.js` · `Expo` | AI apps · Developer tools · Learning systems |
-
-<br />
 
 > **Clear interfaces. Reliable systems.** Small iterations that become useful products.
 
